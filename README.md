@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rutu744
 - 👀 I’m interested in developing web applications and experimenting using new tech-stack
-- 🌱 I’m currently learning spring-boot framework
 - 📫 How to reach me rutugaikwad744@gmail.com
 
 
